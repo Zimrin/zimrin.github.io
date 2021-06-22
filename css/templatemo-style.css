@@ -97,6 +97,12 @@ a:hover {
   font-size: 1.4rem;
 }
 
+.social-media {
+  position:relative;
+  left:100px; 
+  top:50px;
+}
+
 .parallax-window {
   min-height: 1100px;
   background: transparent;
